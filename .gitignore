@@ -1,3 +1,4 @@
 *.exe
 tools/
 access_token.txt
+.ssh/
