@@ -1,0 +1,4 @@
+How to connect to remote server via ssh
+
+ssh username@host -p portsnumber 
+ssh bandit0@bandit.labs.overthewire.org -p 2220
